@@ -5,7 +5,7 @@ Syntax Highlighting for Batch File Shell Scripts.
 
 ## Screenshot
 
-<img src="/res/scnshot.png" width=700>
+<img src="/res/scnshot.png" width=600>
 
 ## References
 
