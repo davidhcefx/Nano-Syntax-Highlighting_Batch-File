@@ -1,4 +1,5 @@
 ## Here is an example for Batch file shell script.
+## Written by davidhcefx, based on Mitch Bumgarner's code.
 
 syntax "batch" "\.(bat|cmd)$"
 header "^@[eE](cho|CHO) (on|off|ON|OFF)"
