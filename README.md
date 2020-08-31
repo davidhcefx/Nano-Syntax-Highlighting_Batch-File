@@ -1,5 +1,7 @@
 # Nano Syntax Highlighting for Batch-file Shell Scripts.
 
+*\* This file is currently included within the popular repo [Improved Nano Syntax Highlighting Files](https://github.com/scopatz/nanorc/blob/master/batch.nanorc)!!*
+
 ## Features
 
 - A big list of cmd commands extracted from [SS64](https://ss64.com/nt/).
