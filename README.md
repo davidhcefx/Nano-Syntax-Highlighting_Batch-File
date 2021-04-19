@@ -1,6 +1,6 @@
 # Nano Syntax Highlighting for Batch-file Shell Scripts.
 
-*\* This file is currently included within the popular repo [Improved Nano Syntax Highlighting Files](https://github.com/scopatz/nanorc/blob/master/batch.nanorc) !*
+*\* This file is currently included within the popular repo [scopatz/nanorc](https://github.com/scopatz/nanorc/blob/master/batch.nanorc) !*
 
 ## Features
 
